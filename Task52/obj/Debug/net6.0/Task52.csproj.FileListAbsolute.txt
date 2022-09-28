@@ -1,0 +1,15 @@
+C:\Homework7\Task52\bin\Debug\net6.0\Task52.exe
+C:\Homework7\Task52\bin\Debug\net6.0\Task52.deps.json
+C:\Homework7\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+C:\Homework7\Task52\bin\Debug\net6.0\Task52.dll
+C:\Homework7\Task52\bin\Debug\net6.0\Task52.pdb
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.dll
+C:\Homework7\Task52\obj\Debug\net6.0\refint\Task52.dll
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.pdb
+C:\Homework7\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+C:\Homework7\Task52\obj\Debug\net6.0\ref\Task52.dll
